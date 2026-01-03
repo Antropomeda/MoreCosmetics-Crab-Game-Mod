@@ -9,4 +9,6 @@ Adds new cosmetics. The window for selecting the cosmetics to equip on players i
 
 When connecting to the lobby, you are sometimes required to press the Re-Scan button upon entering
 
+Allow you to change and save changes (change the location, size, and tilt of new cosmetics within the game) and also the ability to reset to standard variables
+
 The maximum number of new cosmetics is 4 per player. This number is saved after a restart (it's saved based on the Steam ID of the player who owns the item). (You can't equip anything on yourself (it looks too buggy))
