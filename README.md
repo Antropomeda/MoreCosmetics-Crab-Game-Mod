@@ -7,4 +7,6 @@ Example of cosmetic items (there are more cosmetic items in fashion)
 
 Adds new cosmetics. The window for selecting the cosmetics to equip on players is opened by pressing F8
 
+When connecting to the lobby, you are sometimes required to press the Re-Scan button upon entering
+
 The maximum number of new cosmetics is 4 per player. This number is saved after a restart (it's saved based on the Steam ID of the player who owns the item). (You can't equip anything on yourself (it looks too buggy))
