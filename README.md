@@ -1,6 +1,6 @@
 This is a client-side mod (visible only for you)
 
-Example of cosmetic items (there are more cosmetic items in fashion)
+Example of cosmetic items (there are more cosmetic items in mod)
 
 <img width="213" height="343" alt="image" src="https://github.com/user-attachments/assets/9dda4dc8-4595-4f72-be67-4edcda770818" />
 
